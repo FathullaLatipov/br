@@ -1912,7 +1912,7 @@ body.active .menu-open:before {
         margin: 10px 0 0 10px;
     }
     .menu-open {
-        margin: 10px 10px 0 0;
+        margin: 30px 10px 0 0;
     }
 }
 
